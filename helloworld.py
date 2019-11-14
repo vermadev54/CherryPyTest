@@ -21,7 +21,7 @@ class HelloWorld:
         # its return value to the client. Because this is tutorial
         # lesson number 01, we'll just send something really simple.
         # How about...
-        return 'Hello world!'
+        return 'Hi jainendra'
 
 
 tutconf = os.path.join(os.path.dirname(__file__), 'tutorial.conf')
